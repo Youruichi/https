@@ -4,6 +4,25 @@ h1{
 body{
 	background: black;
 }
+a.Sami{
+	color: green;
+	background: purple;
+}
+a.Samie{
+	color: green;
+	background: purple;
+}
+
 p{
 	color: red;
+}
+p.tsunade{
+	color: orange;
+}
+a.media{
+	color: green;
+	background: purple;
+}
+input{
+	color: orange;
 }
